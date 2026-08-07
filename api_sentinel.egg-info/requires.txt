@@ -1,7 +1,0 @@
-fastapi>=0.95.0
-starlette>=0.26.0
-genson>=1.2.2
-pyyaml>=6.0
-rich>=13.0.0
-pydantic>=1.10.0
-uvicorn>=0.20.0
